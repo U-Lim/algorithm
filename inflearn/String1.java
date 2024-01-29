@@ -2,6 +2,13 @@ package inflearn;
 
 import java.util.Scanner;
 
+/**
+ *  문자찾기
+ *  
+ *  input : Computercooler c
+ *  output : 2
+ */
+
 public class String1 {
 	
 	private int solution(String str, char c) {
